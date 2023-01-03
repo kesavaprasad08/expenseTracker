@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    background: slateblue;
+    padding: 1rem;
+    text-align: center;
+}
+
+.container {
+    margin: auto;
+    width: 500px;
+    overflow: auto;
+    padding: 3rem 2rem;
+}
+
+#my-form {
+    padding: 1rem;
+    background: whitesmoke;
+    
+
+}
+
+#my-form input[type="text"] {
+    width: 50%;
+    padding: 1px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+#my-form input[type="number"] {
+    width: 50%;
+    padding: 1px;
+    margin-left: 29px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+#formHeading {
+    text-align: center;
+}
+
+.btna {
+    display: block;
+    width: 20%;
+    border: 0;
+    background: slateblue;
+    color: wheat;
+    border-radius: 5px;
+    margin: 10px 0;
+    margin-left: 150px;
+}
+
+
+
+
+
+
+
+
